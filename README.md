@@ -1,4 +1,4 @@
-# Black_Friday_Sales_Analysis
+# BLACK FRIDAY SALES ANALYSIS
 
 ## Project Statement
 <p> Black Friday is an informal name for the Friday following Thanksgiving Day in the United States, which is celebrated on the fourth Thursday of November. Retailers experience a significant surge in sales during Black Friday, driven by consumer behavior that is influenced by various factors. However, accurately predicting the total purchase amount for individual customers remains challenging due to the complex interplay of these factors. The goal of this project is to develop a machine learning model that can predict the purchase amounts during Black Friday based on customer demographics, product details, and other relevant features. By leveraging this predictive model, retailers can better understand consumer behavior, optimize inventory, and improve targeted marketing strategies.</p>
